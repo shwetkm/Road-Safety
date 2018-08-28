@@ -1,7 +1,4 @@
-# Integrated Road Safety Solution (IRSS)
-<h1>
-<a href='http://dataxlabs.com'>IRSS Website->http://dataxlabs.com</a>
-</h1>
+# Integrated Road Safety Solution (IRSS) <a href='http://dataxlabs.com'>http://dataxlabs.com</a>
 
 [Watch Video](https://www.youtube.com/embed/-CRCnn68yoQ)
 
